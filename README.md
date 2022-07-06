@@ -40,3 +40,5 @@ Here are some ideas to get you started:
 <br />
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=tnmsnhr.tnmsnhr)
+
+[Tanmoy-Frontend-developer-4years.pdf](https://github.com/tnmsnhr/tnmsnhr/files/9056502/Tanmoy-Frontend-developer-4years.pdf)
