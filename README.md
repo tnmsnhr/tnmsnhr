@@ -32,7 +32,8 @@ Here are some ideas to get you started:
 👨‍💻  I am passionate about Web Dev(Javascript is my thing) & I enjoy learning new things. On top of that I have a good taste in UI </br>
 
 ### My Experiences 🙌
-- [Senior Software Engineer - Zoomcar] - (Sep'22-Present)
+- [Senior Software Engineer - Walmart] - (Dec'24-Present)
+- [Senior Software Engineer - Zoomcar] - (Sep'22-Dec'24)
 - [Associate Technology - Synechron] - (Jan'21-Sep'22)
 - [System Engineer - Tata Consultancy Services] - (Jan'18-Jun'21)
 
